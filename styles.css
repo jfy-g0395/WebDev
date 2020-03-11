@@ -23,11 +23,13 @@ body {
   font-family: Bai-Jamjuree;
   color: hsl(210, 10%, 33%);
   font-weight: bold;
+  font-family: "Bai Jamjuree", serif;
 }
 
 .h3-top-header {
   color: hsl(210, 10%, 33%);
   font-size: 1.125rem;
+  font-family: "Bai Jamjuree", serif;
 }
 
 .button-ios {
@@ -35,7 +37,7 @@ body {
   padding: 15px 15px;
   width: 250px;
   font-size: 1.125rem;
-  font-family: Bai-Jamjuree;
+  font-family: Bai Jamjuree;
   text-align: center;
   cursor: pointer;
   outline: none;
@@ -55,7 +57,7 @@ button:hover {
   padding: 15px 15px;
   width: 250px;
   font-size: 1.125rem;
-  font-family: Bai-Jamjuree;
+  font-family: Bai Jamjuree;
   text-align: center;
   cursor: pointer;
   outline: none;
@@ -74,7 +76,7 @@ button:hover {
 }
 
 .h1-keep-track {
-  font-family: Bai-Jamjuree;
+  font-family: Bai Jamjuree;
   color: hsl(210, 10%, 33%);
   font-weight: bold;
 }
@@ -95,6 +97,7 @@ button:hover {
 
 .h2-keep-track {
   margin-top: 70px;
+  font-family: "Bai Jamjuree", serif;
 }
 
 .access-clip {
@@ -113,7 +116,7 @@ button:hover {
 
 .h1-two {
   margin-top: 80px;
-  font-family: Bai-Jamjuree;
+  font-family: Bai Jamjuree;
   color: hsl(210, 10%, 33%);
   font-weight: bold;
 }
@@ -148,7 +151,7 @@ button:hover {
 
 .h1-bottom-head {
   margin-top: 150px;
-  font-family: Bai-Jamjuree;
+  font-family: Bai Jamjuree;
   color: hsl(210, 10%, 33%);
   font-weight: bold;
 }
