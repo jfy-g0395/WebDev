@@ -1,0 +1,222 @@
+@import url(https://fonts.google.com/specimen/Bai+Jamjuree);
+
+body {
+  text-align: center;
+  margin: 0;
+  font-family: Bai-Jamjuree;
+}
+
+.top-header {
+  margin: 0;
+}
+
+.photo-header {
+  width: 100%;
+}
+
+.photo-logo {
+  position: absolute;
+  margin-left: -750px;
+  margin-top: 135px;
+}
+
+.h1-top-header {
+  margin-top: -40px;
+  font-family: Bai-Jamjuree;
+  color: hsl(210, 10%, 33%);
+  font-weight: bold;
+}
+
+.h3-top-header {
+  color: hsl(210, 10%, 33%);
+  font-size: 1.125rem;
+}
+
+.button-ios {
+  margin-right: 10px;
+  padding: 15px 15px;
+  width: 250px;
+  font-size: 1.125rem;
+  font-family: Bai-Jamjuree;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: hsl(171, 66%, 44%);
+  border: none;
+  border-radius: 25px;
+  box-shadow: 0 3px 10px hsl(171, 66%, 44%);
+}
+
+button:hover {
+  filter: brightness(120%);
+}
+
+.button-mac {
+  margin-left: 10px;
+  padding: 15px 15px;
+  width: 250px;
+  font-size: 1.125rem;
+  font-family: Bai-Jamjuree;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: hsl(233, 100%, 69%);
+  border: none;
+  border-radius: 25px;
+  box-shadow: 0 3px 10px hsl(233, 100%, 69%);
+}
+
+.button-container {
+  margin: 50px 0 0 0;
+}
+.keep-track {
+  margin: 120px 0 0 0;
+}
+
+.h1-keep-track {
+  font-family: Bai-Jamjuree;
+  color: hsl(210, 10%, 33%);
+  font-weight: bold;
+}
+
+.image-comp {
+  margin: 0;
+  margin-top: 80px;
+  margin-left: -700px;
+}
+
+.keep-track-side {
+  position: absolute;
+  text-align: left;
+  margin-top: -600px;
+  margin-left: 850px;
+  color: hsl(210, 10%, 33%);
+}
+
+.h2-keep-track {
+  margin-top: 70px;
+}
+
+.access-clip {
+  margin: 0;
+  margin-top: 100px;
+}
+
+.image-device {
+  margin-top: 100px;
+
+}
+
+.logos-sec {
+  margin: 0;
+}
+
+.h1-two {
+  margin-top: 80px;
+  font-family: Bai-Jamjuree;
+  color: hsl(210, 10%, 33%);
+  font-weight: bold;
+}
+
+.c-logo {
+  margin-top: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  margin-left: 80px;
+  margin-right: auto;
+}
+
+.h2-logo {
+  margin-top: 30px;
+  color: hsl(210, 10%, 33%);
+}
+
+.logo-desc2 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.dev-logo {
+ margin: 0;
+ margin-top: 100px;
+ margin-left: 0px;
+ flex-wrap: wrap;
+ align-content: center;
+
+}
+
+.h1-bottom-head {
+  margin-top: 150px;
+  font-family: Bai-Jamjuree;
+  color: hsl(210, 10%, 33%);
+  font-weight: bold;
+}
+
+.bottom {
+  background-color: #ededed;
+  color: hsl(210, 10%, 33%);
+  margin: 150px auto 0 auto;
+  width: 80%;
+  height: 150px;
+  margin-bottom: 50px;
+}
+
+table {
+  display: inline-block;
+  text-align: left;
+  margin-left: -380px;
+  margin-top: 40px;
+}
+
+a:hover {
+  color: hsl(171, 66%, 44%);
+  transition: 0.5s;
+}
+
+td {
+  width: 150px;
+}
+
+.lower-logo {
+  width:40px;
+  height:40px;
+  display:inline-block;
+  float:left;
+  margin-left: 100px;
+  margin-top: 60px;
+}
+
+a {
+  text-decoration: none;
+  color: hsl(210, 10%, 33%);
+}
+
+.social-logo {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  position: absolute;
+  margin-top: -55px;
+  margin-left: 900px;
+}
+
+svg {
+  width: 24px;
+  height: 24px;
+  fill: hsl(210, 10%, 33%);
+}
+
+svg:hover {
+  fill: hsl(171, 66%, 44%);
+}
+
+@font-face {
+    font-family: 'Bai-Jamjuree';
+    src: url('BaiJamjuree-Regular.eot?#iefix') format('embedded-opentype'),
+        url('BaiJamjuree-Regular.woff') format('woff'),
+        url('BaiJamjuree-Regular.ttf')  format('truetype'),
+        url('BaiJamjuree-Regular.svg#svgBaiJamjuree-Regular') format('svg');
+}
