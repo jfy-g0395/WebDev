@@ -1,7 +1,7 @@
 body {
   text-align: center;
   margin: 0;
-  font-family: "Bai Jamjuree", serif;
+  font-family: Bai Jamjuree, serif;
 }
 
 .top-header {
@@ -20,7 +20,7 @@ body {
 
 .h1-top-header {
   margin-top: -40px;
-  font-family: Bai-Jamjuree;
+  font-family: Bai Jamjuree;
   color: hsl(210, 10%, 33%);
   font-weight: bold;
   font-family: "Bai Jamjuree", serif;
